@@ -5,9 +5,21 @@
 
 ![fathug's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathug&theme=buefy&show_icons=true?count_private=true)  
 
+<div>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fathug&theme=github" width="25%" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fathug&theme=github" width="52%" />
+  </a>
+</div>
+
 
 
 <!--
+以下内容被注释
+部分内容参考：https://github.com/SeptemberHX
+
 **fathug/fathug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
