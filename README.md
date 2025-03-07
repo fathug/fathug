@@ -1,6 +1,7 @@
 ### Yoo, I'm fathug
 
-- I’m currently working on and learning Computer vision  
+- I’m currently working on and learning Computer Vision  
+- Reach me at wxy.me@foxmail.com  
 - Writer at [Zhihu](https://www.zhihu.com/people/xiao-le-jiu-hao-4)  
 
 ![fathug's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathug&theme=buefy&show_icons=true?count_private=true)  
