@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fathug&theme=github" width="26%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fathug&theme=github" width="25%" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fathug&theme=github" width="52%" />
