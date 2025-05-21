@@ -2,7 +2,7 @@
 
 - I’m currently working on and learning Computer Vision  
 - Reach me at wxy.me@foxmail.com  
-- Writer at [Zhihu](https://www.zhihu.com/people/xiao-le-jiu-hao-4)  
+- Writer at [待补充](https://www.zhihu.com)  
 
 ![fathug's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathug&theme=buefy&show_icons=true?count_private=true)  
 
